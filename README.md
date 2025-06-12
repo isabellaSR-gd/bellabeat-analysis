@@ -19,7 +19,8 @@ Identificar padrões de uso analisando dados do FitBit (fitness tracker similar 
 * Direcionar para prática de exercícios leves
 * Bellabeat como 'companion'
 ### Como essas tendências podem ajudar a influenciar as estratégias de marketing do Bellabeat?
-* Saber que usuárias praticam exercícios leves e usam o device de forma casual informa o tom dos planos de marketing
+* Saber que usuárias praticam exercícios leves e usam o device de forma casual informa o tom dos planos de marketing.
+* Não há dados o suficiente para afirmar que pessoas acima do peso são subrepresentadas na base de usuários do Fitbit, mas com a crescente população acima do peso, direcionar o marketing também para esse público é uma oportunidade.
 
 
 # Datasets usados:
@@ -40,5 +41,6 @@ As bases de dados são limitadas, servindo como análise exploratória inicial p
 # Potenciais de Análise futura
 * Confirmar achados em bases de dados maiores (maior nível de confiança) por limitações da base de dados
 * Houve indicação de maior taxa de exercício físico em pessoas acometidas com diabetes na faixa de 18 a 42 anos e menor taxa de exercíoc naquelas com doenças cardíacas, mas a amostra dessas populações no dataset Health Lifestyle é pequena para ser conclusiva
+* Não há dados o suficiente para 
 
 
