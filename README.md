@@ -22,6 +22,11 @@ Identificar padrões de uso analisando dados do FitBit (fitness tracker similar 
 * Saber que usuárias praticam exercícios leves e usam o device de forma casual informa o tom dos planos de marketing.
 * Não há dados o suficiente para afirmar que pessoas acima do peso são subrepresentadas na base de usuários do Fitbit, mas com a crescente população acima do peso, direcionar o marketing também para esse público é uma oportunidade.
 
+# Estrutura do repositório
+* WIP
+
+# Metodologia/ escopo e processo
+* WIP
 
 # Datasets usados:
 ### Dataset principal
