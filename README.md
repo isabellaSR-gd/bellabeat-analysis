@@ -1,5 +1,5 @@
 # Análise de uso de fitness trackers - busca por oportunidades de negócio e marketing para Bellabeat
-Como dados de padrão e tendências de uso podem informar o marketing de fitness tracke 
+Como dados de padrão e tendências de uso podem informar o marketing de fitness tracker 
 
 # Analistas: 
 * [Isabella Rodolfo](https://github.com/isabellaSR-gd)
@@ -36,7 +36,7 @@ Identificar padrões de uso analisando dados do FitBit (fitness tracker similar 
 2. Carregamento e processamento de dados: organização de projeto, limpeza e processamento dos dados para as necessidades do projeto
 3. Análise exploratória: análises estatísticas, correlações e padrões nos dados
 4. Coleta de insights potenciais e alinhamento com perguntas de negócio: organização dos insights para finalizar projeto
-5. Criação de gráficos para visualizar achados: uso de biblioteca Seaborn para comunicar 
+5. Criação de gráficos para visualizar achados: uso de biblioteca Seaborn para comunicar de forma simples e direta
 6. Documentação: organização de achados em apresentação e documentação de limpeza.
 
 # Datasets usados:
