@@ -3,11 +3,10 @@ Como dados de padrão e tendências de uso podem informar o marketing de fitness
 
 # Analistas: 
 * [Isabella Rodolfo](https://github.com/isabellaSR-gd)
-* [Nínive Helen](https://github.com/ninivehelen)
+* [Nínive Helen](https://github.com/ninivehelen) (suporte)
 
 # Objetivo
 Identificar padrões de uso analisando dados do FitBit (fitness tracker similar ao Bellabeat) e gerar insights e apontar oportunidades de negócio para o Bellabeat Fitness tracker.
-
 
 # Insights principais obtidos
 ### Tendências de uso de aparelhos smart
@@ -37,6 +36,7 @@ Identificar padrões de uso analisando dados do FitBit (fitness tracker similar 
 4. Coleta de insights potenciais e alinhamento com perguntas de negócio: organização dos insights para finalizar projeto
 5. Criação de gráficos para visualizar achados: uso de biblioteca Seaborn para comunicar de forma simples e direta
 6. Documentação: organização de achados em apresentação e documentação de limpeza.
+7. [Retrospectiva do projeto](https://medium.com/@isarodolfo/bellabeat-retrospectiva-de-projeto-328f71298262): Documentar o processo, pontos positivos e de melhoria para aprimorar projetos futuros 
 
 # Datasets usados:
 ### Dataset principal
